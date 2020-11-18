@@ -58,4 +58,17 @@ Video coming soon!
 
 [Review questions and lab](https://docs.google.com/presentation/d/11RX3CbdUxdjBTxBOv4onXtm3uPSeGfknj49vvpOdNpQ/edit?usp=sharing)
 
+## Lesson 4
+This lesson covers:
+- the uses of setters and getters
+- private variables and methods (encapsulation)
+
+[Slideshow](https://docs.google.com/presentation/d/1yXBRu4CTAXmWaZf6emLp27CK1GcNviQQANsjRltoum0/edit?usp=sharing)
+
+Video coming soon!
+
+[Kahoot review](https://create.kahoot.it/share/intro-to-java-lesson-4/3e3c18fd-fe9f-4a2b-86cf-95366c11ae39)
+
+[Review questions (lab included in lesson)](https://docs.google.com/presentation/d/1mb7wZLfgAUzQ-PAmg9mAUfucezWdO2HcKu5AGZlF_hU/edit?usp=sharing)
+
 More lessons will be added as we finish creating them!
