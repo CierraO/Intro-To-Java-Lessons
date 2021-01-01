@@ -19,7 +19,7 @@ This lesson covers:
 
 [Slideshow](https://docs.google.com/presentation/d/1Rj-yLH_iVOe9-8BvjNRBQY31414TcE2cPcWbz_j_4KM/edit?usp=sharing)
 
-[Video](https://www.youtube.com/watch?v=Tj8uvQCyy38&t=4693s)
+[Video](https://www.youtube.com/watch?v=Tj8uvQCyy38)
 
 [Kahoot review](https://create.kahoot.it/share/intro-to-java-lesson-1/c7497912-e782-4c45-aa11-5671cb48b4f0)
 
@@ -65,7 +65,7 @@ This lesson covers:
 
 [Slideshow](https://docs.google.com/presentation/d/1yXBRu4CTAXmWaZf6emLp27CK1GcNviQQANsjRltoum0/edit?usp=sharing)
 
-[Video](https://www.youtube.com/watch?v=nMbluZnAqBM&t=11s)
+[Video](https://www.youtube.com/watch?v=nMbluZnAqBM)
 
 [Kahoot review](https://create.kahoot.it/share/intro-to-java-lesson-4/3e3c18fd-fe9f-4a2b-86cf-95366c11ae39)
 
